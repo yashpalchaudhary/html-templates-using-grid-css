@@ -45,34 +45,13 @@ This is a demo project of Bootstrap Grid.
 
 This is a demo project of Bootstrap Grid.
 
-## 📸 This is newPaper template screenshot
+## 📸 This is Brand template screenshot
 
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/Gridcss/refs/heads/grid-css-full-template/Newspaper/image/Screenshot%202025-07-19%20125030.png)
-
-
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/MyProfile/Screenshot%202025-08-01%20203328.png)
 
 
-## 📸 This is My profile template screenshot
+This is a demo project of Bootstrap Grid.
 
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/Gridcss/refs/heads/main/MyProfile/Screenshot%202025-08-01%20203328.png
-)
+## 📸 This is Brand template screenshot
 
-
-
-## 📸 This is My Food template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/Gridcss/refs/heads/main/Myfood/Screenshot%202025-08-01%20203149.png)
-
-
-## 📸 This is My profile template screenshot
-
-![Grid Example](https://github.com/yashpalchaudhary/Gridcss/raw/main/PHOTOLIO/Screenshot%202025-08-01%20203448.png)
-
-
-## 📸 This is My profile template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/Gridcss/refs/heads/main/SumerHoliday2/Screenshot%202025-08-01%20205116.png)
-
-
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/Gridcss/bf9047387b14ec94fd13b539d7faa072e258b5e4/brand/image.png)
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Myfood/Screenshot%202025-08-01%20203149.png)
