@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    color: #fff !important;
+    background-color: #4d636f !important;
+    height: 60px;
+    font-size: 18px !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.logo1{
+    text-align: end;
+    padding: 10px;
+}
+
+
+.logo{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 364px;
+}
+
+
+.loge{
+    display: grid;
+    grid-template-columns: 36px 8px;
+    align-items: center;
+    padding-left: 21px;
+}
+
+.log {
+    display: grid;
+    grid-template-columns: 20px 20px 20px 20px;
+    gap: 46px;
+    align-items: center;
+}
+

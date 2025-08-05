@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.main-container {
+    width: 100%;
+}
+
+
+
+.header {
+    width: 121%;
+    height: 60px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 110px;
+    position: fixed;
+    font-size: 21px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 110px;
+
+}
+
+.my-image {
+    width: 90%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.the {
+    margin: 16px;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.real {
+    margin-left: 35px;
+}
+
+.just {
+    line-height: 23px;
+    margin-top: 20px;
+}
+
+.what {
+    margin-left: 61px;
+}
+
+.ipsum {
+    margin-left: 65px;
+}
+
+.box-1,
+.box-2,
+.box-3,
+.box-4 {
+    margin-top: 30px;
+}
+
+
+hr {
+    width: 100px;
+}
+
+.about {
+    text-align: center;
+    font-weight: 100;
+}
+
+
+.image,
+.am {
+    margin-top: 33px;
+}
+
+.with {
+    margin-top: 20px;
+}
+
+.myself {
+    padding: 20px 100px 0 180px;
+    line-height: 22px;
+}
+
+
+.footer {
+    padding-left: 180px;
+    margin-top: 110px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 39px;
+    height: 216px;
+}
+
+.praesent {
+    width: 426px;
+    word-spacing: 5px;
+    margin-top: 20px;
+}
+
+.powered {
+    margin-top: 20px;
+}
+
+
+.photo {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 111px;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.nunc {
+    margin-top: 6px;
+}
+
+.sed {
+    width: 130px;
+}
+
+.travel {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: 14px;
+}
+
+.new {
+    width: 45px;
+    font-size: 12px;
+    color: #fff !important;
+    background-color: #616161 !important;
+}
+
+.tra {
+    background: black;
+    color: white;
+    width: 52px;
+    text-align: center;
+}
