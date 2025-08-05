@@ -81,9 +81,9 @@ This is a demo project of Bootstrap Grid.
 
 
 
-## 📸 This is Summerholiday template screenshot
+## 📸 This is Brand template screenshot
 
-![Grid Example]()
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/brand/Screenshot%202025-08-01%20205411.png)
 
 
 
