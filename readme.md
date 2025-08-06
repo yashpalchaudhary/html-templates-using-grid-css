@@ -1,89 +1,49 @@
-# 🧱 CSS Grid Layout Project
+# 🎨 Normal vs Custom vs Float CSS
 
-## 📌 Project Description
-Yeh project CSS Grid Layout ka use karke banaya gaya hai jisme ek responsive aur modern web layout design kiya gaya hai. CSS Grid ek 2D layout system hai jo rows aur columns dono me content ko organize karne ke liye use hota hai.
+This project demonstrates the usage and differences between **Normal CSS**, **Custom CSS**, and **Float-based CSS Layouts**.  
+It helps beginners understand how different CSS approaches can be applied to create responsive and well-structured web pages.
 
-## 🎯 Objectives
-- CSS Grid ke basic aur advanced properties ka use karna
-- Responsive design banana media queries ke through
-- Reusable layout structure create karna
+## 📌 Features
+- ✅ Example of **Normal CSS** styling  
+- ✅ Example of **Custom CSS** for enhanced design  
+- ✅ Example of **Float CSS** layout techniques  
+- ✅ Easy to understand and customize  
+- ✅ Beginner-friendly code structure  
 
-## 💻 Technologies Used
-- HTML5
-- CSS3 (CSS Grid Layout)
+## 🛠️ Technologies Used
+- **HTML5** – For structuring the content  
+- **CSS3** – For styling (normal, custom, and float techniques)  
 
-## 🔧 CSS Grid Properties Used
-- `display: grid`
-- `grid-template-columns`
-- `grid-template-rows`
-- `grid-gap` / `gap`
-- `grid-area`
-- `justify-content`, `align-items`
-- `grid-template-areas` (optional)
-- `repeat()`, `minmax()` functions
+## 📂 Project Structure
+normal-custom-or-float-css/
+│── index.html # Main HTML file
+│── normal.css # Basic CSS styling
+│── custom.css # Custom CSS styling
+│── float.css # Float-based layout styling
+│── images/ # Images used in the project
+│── README.md # Project documentation
 
-## 🧩 Layout Features
-- Multi-column responsive layout
-- Gap between items using `gap` 
-- Auto adjustment of items based on screen size
-- Clean and minimalistic UI
+markdown
+Copy
+Edit
 
-## 📁 Folder Structure
-grid-css-project/
-│
-├── index.html # Main HTML file
-├── style.css # CSS file with Grid layout
-└── README.md # Project documentation
+## 🚀 How to Use
+1. Clone or download this repository.  
+2. Open `index.html` in any modern browser.  
+3. Switch between different CSS files to see how styles change.
 
 # My Project
 
-This is a demo project of Bootstrap Grid.
+This is a demo project of 
 
 ## 📸 Screenshot
 
 ![Grid Example](# My Project
 
-This is a demo project of Bootstrap Grid.
+This is a demo project of 
 
-## 📸 This is  Myprofile template screenshot
+## 📸 This is Band template screenshot
 
 ![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/MyProfile/Screenshot%202025-08-01%20203328.png)
-
-
-This is a demo project of Bootstrap Grid.
-
-## 📸 This is Myfood template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Myfood/Screenshot%202025-08-01%20203149.png)
-
-
-
-## 📸 This is Newspaper template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Newspaper/image/Screenshot%202025-07-19%20125030.png)
-
-
-## 📸 This is Summerholiday2 template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/SumerHoliday2/Screenshot%202025-08-01%20205116.png)
-
-
-
-## 📸 This is Photolio template screenshot
-
-![Grid Example](https://github.com/yashpalchaudhary/html-templates-using-grid-css/blob/main/PHOTOLIO/Screenshot%202025-08-01%20203448.png)
-
-
-
-## 📸 This is Summerholiday template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Summerholiday/Screenshot%202025-08-01%20203527.png)
-
-
-
-## 📸 This is Brand template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/brand/Screenshot%202025-08-01%20205411.png)
-
 
 
