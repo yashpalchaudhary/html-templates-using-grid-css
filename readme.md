@@ -56,12 +56,44 @@ This is a demo project of
 
 ## 📸 This is Band template screenshot
 
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/MyProfile/Screenshot%202025-08-01%20203328.png)
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/brand/Screenshot%202025-08-01%20205411.png)
 
 
-## 📸 This is Band template screenshot
+## 📸 This is Myfood template screenshot
 
 ![Grid Example](https://github.com/yashpalchaudhary/html-templates-using-grid-css/blob/main/Myfood/Screenshot%202025-08-01%20203149.png)
 
+
+
+## 📸 This is  Newspaper template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Newspaper/image/Screenshot%202025-07-19%20125030.png)
+
+
+
+## 📸 This is  summerholiday  template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/Summerholiday/Screenshot%202025-08-01%20203527.png)
+
+
+
+
+## 📸 This is  summerholiday2  template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/SumerHoliday2/Screenshot%202025-08-01%20205116.png)
+
+
+
+
+
+## 📸 This is Photolio template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/PHOTOLIO/Screenshot%202025-08-01%20203448.png)
+
+
+
+## 📸 This is Myprofile template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-grid-css/refs/heads/main/MyProfile/Screenshot%202025-08-01%20203328.png)
 
 
