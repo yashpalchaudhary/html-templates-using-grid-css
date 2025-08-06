@@ -29,6 +29,21 @@ Open the index.html file in your browser.
 Explore and customize the layout in style.css.
 
 
+
+
+📚 Key CSS Grid Properties Used
+display: grid;
+
+grid-template-columns
+
+grid-template-rows
+
+gap
+
+grid-column and grid-row
+
+justify-items, align-items, place-items
+
 # My Project
 
 This is a demo project of 
